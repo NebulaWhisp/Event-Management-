@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse",
+  "description": "Live event discovery, tickets reservation, and creator studio for nightlife, tech, and cultural experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
